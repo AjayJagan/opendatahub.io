@@ -5,6 +5,23 @@ permalink: /docs/roadmap/release-notes
 style_class: release-notes
 ---
 
+Technology                      | Version
+------------------------------- | -------
+Kserve                          | v0.11.1
+Model mesh serving              | v0.11.1
+Rest proxy                      | v0.11.1
+Modelmesh runtime adapter       | v0.11.1
+ODH model controller            | v0.11.1
+Data science pipelines operator | v2.0.1 
+ODH dashboard                   | v2.21.1
+Trustyai                        | v1.24.0
+Kueue                           | v0.6.0 
+Ray                             | v1.0.0 
+Notebooks                       | v1.15.0
+Notebook controller             | v1.7.0 
+Modelregistry                   | v0.1.2 
+Codeflare                       | v1.2.0 
+Trainingoperator                | v1.8.0 
 ### [Open Data Hub version v1.7.0](../../blog/2023-06-28-odh-release-1.7.0-blog) - June 2023
 
 | Technology                                                                         | Version |
