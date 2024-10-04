@@ -5,6 +5,14 @@ permalink: /docs/roadmap/release-notes
 style_class: release-notes
 ---
 
+
+ ### Open Data Hub version
+Technology           | Version 
+-------------------- | --------
+Opendatahub operator | V2.18.0 
+odh dashboard        | v1.18   
+model reg            | v10.1.11
+
 ### [Open Data Hub version v1.7.0](../../blog/2023-06-28-odh-release-1.7.0-blog) - June 2023
 
 | Technology                                                                         | Version |
