@@ -5,6 +5,26 @@ permalink: /docs/roadmap/release-notes
 style_class: release-notes
 ---
 
+
+ ### Open Data Hub version: 2.12.1
+Technology                                                                                           | Version                                                                                             
+---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------
+[Kserve](https://github.com/opendatahub-io/kserve)                                                   | [v0.11.1](https://github.com/opendatahub-io/kserve/tree/v0.11.1.3)                                  
+[Model mesh serving](https://github.com/opendatahub-io/modelmesh-serving)                            | [v0.11.1](https://github.com/opendatahub-io/modelmesh-serving/releases/tag/v0.11.1.3)               
+[Rest proxy](https://github.com/opendatahub-io/rest-proxy)                                           | [v0.11.1](https://github.com/opendatahub-io/rest-proxy/releases/tag/v0.11.1.3)                      
+[Modelmesh runtime adapter](https://github.com/opendatahub-io/modelmesh-runtime-adapter)             | [v0.11.1](https://github.com/opendatahub-io/modelmesh-runtime-adapter/releases/tag/v0.11.1.3)       
+[ODH model controller](https://github.com/opendatahub-io/odh-model-controller)                       | [v0.11.1](https://github.com/opendatahub-io/odh-model-controller/tree/v0.11.1.3)                    
+[Data science pipelines operator](https://github.com/opendatahub-io/data-science-pipelines-operator) | [v2.0.1](https://github.com/opendatahub-io/data-science-pipelines-operator/releases/tag/v2.0.1)     
+[ODH dashboard](https://github.com/opendatahub-io/odh-dashboard)                                     | [v2.21.1](https://github.com/opendatahub-io/odh-dashboard/releases/tag/v2.21.1-incubation)          
+[Trustyai](https://github.com/trustyai-explainability/trustyai-service-operator)                     | [v1.24.0](https://github.com/trustyai-explainability/trustyai-service-operator/releases/tag/v1.24.0)
+[Kueue](https://github.com/opendatahub-io/kueue)                                                     | [v0.6.0](https://github.com/opendatahub-io/kueue/releases/tag/v0.6.0-rhoai-2.9)                     
+[Ray](https://github.com/opendatahub-io/kuberay)                                                     | [v1.0.0](https://github.com/opendatahub-io/kuberay/releases/tag/v1.0.0-rhoai)                       
+[Notebooks](https://github.com/opendatahub-io/notebooks)                                             | [v1.15.0](https://github.com/opendatahub-io/notebooks/releases/tag/v1.15.0)                         
+[Notebook controller](https://github.com/opendatahub-io/kubeflow)                                    | [v1.7.0](https://github.com/opendatahub-io/kubeflow/releases/tag/v1.7.0-7)                          
+[Modelregistry](https://github.com/opendatahub-io/model-registry-operator)                           | [v0.1.2](https://github.com/opendatahub-io/model-registry-operator/releases/tag/v0.1.2)             
+[Codeflare](https://github.com/opendatahub-io/codeflare-operator)                                    | [v1.2.0](https://github.com/opendatahub-io/codeflare-operator/releases/tag/v1.2.0)                  
+[Trainingoperator](https://github.com/opendatahub-io/training-operator)                              | [v1.8.0](https://github.com/opendatahub-io/training-operator/releases/tag/v1.8.0-odh)               
+
 ### [Open Data Hub version v1.7.0](../../blog/2023-06-28-odh-release-1.7.0-blog) - June 2023
 
 | Technology                                                                         | Version |
